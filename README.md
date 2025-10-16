@@ -37,6 +37,10 @@ The .ipynb file is licensed under Attribution 4.0 International (CC-BY-4.0)
 - ICU: https://icu.unicode.org/
 - Eigen: https://eigen.tuxfamily.org/
 
+# Notice
+
+When you import another vmd file, you should first clear the exist anime.
+
 # Release
 ### Support Operation System: Windows, Linux.
 https://github.com/wayne931121/smoothvmd-colab/releases/tag/1.2.2

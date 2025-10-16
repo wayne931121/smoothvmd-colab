@@ -16,6 +16,10 @@ Download Realease:
 
 # Intro
 
+make VMD motion smooth and slim in colab.
+
+# Debug Info
+
 I use 2 hours to debug because he not tell me some correct dependent packages and its correct install way.
 
 # Forked from

@@ -37,6 +37,11 @@ The .ipynb file is licensed under Attribution 4.0 International (CC-BY-4.0)
 - ICU: https://icu.unicode.org/
 - Eigen: https://eigen.tuxfamily.org/
 
+# Best Command
+### This command is best for me
+```sh
+!/content/smoothvmd a.vmd c.vmd --fps_in 15 --fps_out 30
+```
 
 # Release
 ### Support Operation System: Windows, Linux.

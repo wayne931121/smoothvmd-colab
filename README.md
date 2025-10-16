@@ -32,3 +32,25 @@ The .ipynb file is licensed under Attribution 4.0 International (CC-BY-4.0)
 
 # Release
 https://github.com/wayne931121/smoothvmd-colab/releases/tag/1.2.2
+
+# Contributors
+### errno-mmd Erano
+
+Info: Author
+
+Profile: https://github.com/errno-mmd
+
+Source: https://github.com/errno-mmd/smoothvmd
+
+### MagiTeitoku
+
+Profile: https://github.com/MagiTeitoku
+
+Source: https://github.com/MagiTeitoku/smoothvmd
+
+### Wayne931121
+
+Profile: https://github.com/wayne931121
+
+Source: https://github.com/wayne931121/smoothvmd-colab
+

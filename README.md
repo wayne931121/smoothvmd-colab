@@ -18,4 +18,4 @@ https://github.com/errno-mmd/smoothvmd
 
 All code except .ipynb file is licensed under MIT license
 
-The .ipynb file is licensed under Attribution 4.0 International (CC-BY-4.0)
+The .ipynb file is licensed under CC-BY-4.0

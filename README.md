@@ -39,7 +39,7 @@ The .ipynb file is licensed under Attribution 4.0 International (CC-BY-4.0)
 
 # Notice
 
-When you import another vmd file, you should first clear the exist anime.
+When you import another vmd file in blender using mmd tools, you should first clear the exist anime.
 
 # Release
 ### Support Operation System: Windows, Linux.

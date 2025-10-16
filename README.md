@@ -1,10 +1,18 @@
 # colab
 
+Build and Use:
 https://colab.research.google.com/drive/1u8Dg0uEu9K9z6Jd26BG5ZX30cb9mpxPa?usp=sharing
+
+Download Realease:
+https://colab.research.google.com/drive/1eMtgw352yCOiMCsaPAC-zF3_6m1z15tT?usp=sharing
 
 # Ipynb
 
+Build and Use:
 https://github.com/wayne931121/smoothvmd-colab/blob/master/smoothvmd.ipynb
+
+Download Realease:
+https://github.com/wayne931121/smoothvmd-colab/blob/master/smoothvmd_bin.ipynb
 
 # Intro
 

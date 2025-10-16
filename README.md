@@ -12,7 +12,7 @@ I use 2 hours to debug because he not tell me some correct dependent packages an
 
 # Forked from
 
-https://github.com/errno-mmd/smoothvmd
+official: https://github.com/errno-mmd/smoothvmd
 
 # License
 

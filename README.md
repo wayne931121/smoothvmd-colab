@@ -13,3 +13,9 @@ I use 2 hours to debug because he not tell me some correct dependent packages an
 # Forked from
 
 https://github.com/errno-mmd/smoothvmd
+
+# License
+
+All code except .ipynb file is MIT license
+
+The .ipynb file is Attribution 4.0 International (CC-BY-4.0)

@@ -55,7 +55,7 @@ https://github.com/wayne931121/smoothvmd-colab/releases/tag/1.2.2
 # Contributors✨
 ### errno-mmd Erano
 
-Info: Author
+Author
 
 Profile: https://github.com/errno-mmd
 

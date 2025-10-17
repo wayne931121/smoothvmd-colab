@@ -57,17 +57,23 @@ https://github.com/wayne931121/smoothvmd-colab/releases/tag/1.2.2
 
 Original Code Author
 
+Date: 2018
+
 Profile: https://github.com/errno-mmd
 
 Source: https://github.com/errno-mmd/smoothvmd
 
 ### MagiTeitoku
 
+Date: 2024
+
 Profile: https://github.com/MagiTeitoku
 
 Source: https://github.com/MagiTeitoku/smoothvmd
 
 ### Wayne931121
+
+Date: 2025
 
 Profile: https://github.com/wayne931121
 
